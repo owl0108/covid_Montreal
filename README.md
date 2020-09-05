@@ -2,7 +2,7 @@
 
 This is part of my personal project visualizing the spread of covid-19 in the Island of Montreal.
 
-This repository contains Google Apps Script codes for fetching and storing the data from the public health authority.
+The repository contains Google Apps Script codes for fetching and storing the data from the public health authority.
 (main.gs meant to be triggered daily.)
 
 To see the collected data:
