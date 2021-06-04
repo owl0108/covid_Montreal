@@ -1,6 +1,6 @@
 # Tableau_covid-Montreal
 
-### There seems to be an issue with accessing the website from the Google server, so the current code may not work (2020/11/24)
+### There seems to be an issue with accessing the website from the Google server. Auto-update may not work. (2020/11/24)
 
 
 This is part of my personal project visualizing the spread of covid-19 in the Island of Montreal.
